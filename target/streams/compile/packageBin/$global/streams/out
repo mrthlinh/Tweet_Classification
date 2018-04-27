@@ -1,0 +1,49 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\assign3_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetTopicModel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\TweetTopicModel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FrequentItemAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\FrequentItemAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIA_Assignment.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\FIA_Assignment.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetTopicModel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\TweetTopicModel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TPC.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\TPC.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetTopicModel$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\TweetTopicModel$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIA_Assignment$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\FIA_Assignment$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TPC$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\TPC$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FrequentItemAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\FrequentItemAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetClassifier.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\TweetClassifier.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetTopicModel$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\TweetTopicModel$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FrequentItemAnalysis$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\FrequentItemAnalysis$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FrequentItemAnalysis$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\FrequentItemAnalysis$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIA_Assignment$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\FIA_Assignment$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FrequentItemAnalysis$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\FrequentItemAnalysis$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIA_Assignment$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\FIA_Assignment$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetTopicModel$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\TweetTopicModel$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetClassifier$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\TweetClassifier$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIA_Assignment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\FIA_Assignment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIA_Assignment$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\FIA_Assignment$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetTopicModel$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\TweetTopicModel$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIA_Assignment$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\FIA_Assignment$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TweetClassifier$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\UTD\Class\Spring 2018\CS6350 - Big Data\Assignment\Assign4\tweetsentiment\target\scala-2.11\classes\TweetClassifier$$anonfun$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
